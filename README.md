@@ -1,30 +1,85 @@
-# Agentic AI: Phase 1 – Foundations
+# 🚀 Advanced Python: OOP, DSA & Concurrency
 
-This repository tracks the journey through advanced Python mastery and machine learning fundamentals, serving as the technical groundwork for building autonomous agentic systems.
+This repository documents my journey toward mastering **advanced Python concepts**, forming the foundation for building scalable systems and future Generative AI / Agentic AI applications.
 
-## 🏗️ Phase 1 Overview
-Phase 1 focuses on building a robust engineering foundation, covering Pythonic design patterns, algorithmic efficiency, and the core mathematics of machine learning.
+---
+
+## 🏗️ Overview
+
+This phase focuses on developing a **strong programming and problem-solving foundation**, covering:
+
+- Pythonic design patterns  
+- Algorithmic efficiency  
+- Concurrency and performance optimization  
+
+---
 
 ## 📁 Modules Covered
 
 ### 1. Advanced Python & OOP
-- **Concepts:** Classes, Inheritance, Magic Methods (@dataclass, __init__), and Abstract Base Classes (ABC).
-- **Major Project:** A Library Management System utilizing full CRUD and OOP principles.
+- **Concepts:** Classes, Inheritance, Polymorphism, Encapsulation, Abstraction  
+- Magic Methods (`__init__`, `__str__`, `__repr__`)  
+- `@dataclass` and Abstract Base Classes (ABC)  
+
+- **Project:**  
+  Library Management System  
+  - Full CRUD functionality  
+  - Clean and modular OOP design  
+
+---
 
 ### 2. Data Structures & Algorithms (DSA)
-- **Concepts:** Big-O complexity, Linked Lists, BSTs, and Graph algorithms (BFS/DFS).
-- **Deliverable:** A curated problem set with space-time complexity analysis.
+- **Concepts:**  
+  Big-O Complexity  
+  Arrays, Stacks, Queues  
+  Linked Lists  
+  Trees (BST)  
+  Graphs (BFS, DFS)  
 
-### 3. The Data Science Stack
-- **Tools:** NumPy, Pandas, Matplotlib, and Seaborn.
-- **Deliverable:** Exploratory Data Analysis (EDA) report on real-world datasets.
+- **Deliverable:**  
+  Problem set with optimized solutions and space-time complexity analysis  
 
-### 4. Machine Learning & Deep Learning Fundamentals
-- **Models:** Regression, Random Forests, XGBoost, and CNNs.
-- **Tools:** Scikit-learn, MLflow, and PyTorch.
-- **Capstone:** MNIST Digit Classifier achieving 99%+ accuracy.
+---
+
+### 3. Concurrency & Performance Optimization
+- **Concepts:**  
+  Threading (I/O-bound tasks)  
+  Multiprocessing (CPU-bound tasks)  
+  Parallel execution in Python  
+
+- **Focus:**  
+  Writing efficient and high-performance code for real-world applications  
+
+---
+
+## 📂 Repository Scope
+
+This repository includes:
+- Concept implementations  
+- Practice problems  
+- Mini projects  
+- Performance-focused coding examples  
+
+---
 
 ## 🛠️ Tech Stack
-- **Language:** Python 3.10+
-- **Libraries:** NumPy, Pandas, Scikit-Learn, PyTorch, Matplotlib
-- **Tooling:** Docker (basics), Git, Jupyter Notebooks
+
+- **Language:** Python 3.10+  
+- **Core Libraries:** Python Standard Library  
+- **Tooling:** Git, VS Code 
+
+---
+
+## 🎯 Outcome
+
+By completing this repository, I will:
+
+- Build clean and scalable Python applications  
+- Strengthen problem-solving and algorithmic thinking  
+- Understand and apply concurrency in real-world scenarios  
+
+---
+
+## 📌 Note
+
+This repository is part of a structured roadmap toward **AI Engineering and Agentic AI development**, starting with strong core fundamentals.
